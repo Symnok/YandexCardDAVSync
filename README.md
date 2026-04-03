@@ -4,8 +4,6 @@ A UWP app for **Windows 10 Mobile (Lumia)** that syncs contacts between **Yandex
 
 Built with Visual Studio 2017, targeting Windows 10 Mobile (UAP 10.0.14393+).
 
-![Square tile](docs/preview_square.png) ![Wide tile](docs/preview_wide.png)
-
 ---
 
 ## Features
