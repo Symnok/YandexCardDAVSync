@@ -1,0 +1,42 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexCardDAVSync", "YandexCardDAVSync\YandexCardDAVSync.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncComponent", "SyncComponent\SyncComponent.csproj", "{B2C3D4E5-F6A7-8901-BCDE-F12345678901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|ARM.Build.0 = Debug|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|x86.ActiveCfg = Debug|x86
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|x86.Build.0 = Debug|x86
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|x86.Deploy.0 = Debug|x86
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|ARM.ActiveCfg = Release|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|ARM.Build.0 = Release|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|ARM.Deploy.0 = Release|ARM
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|x86.ActiveCfg = Release|x86
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|x86.Build.0 = Release|x86
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|x86.Deploy.0 = Release|x86
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Debug|ARM.Build.0 = Debug|ARM
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Debug|x86.ActiveCfg = Debug|x86
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Debug|x86.Build.0 = Debug|x86
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Release|ARM.ActiveCfg = Release|ARM
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Release|ARM.Build.0 = Release|ARM
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Release|x86.ActiveCfg = Release|x86
+		{B2C3D4E5-F6A7-8901-BCDE-F12345678901}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
