@@ -161,7 +161,7 @@ Then update `PackageCertificateThumbprint` in `YandexCardDAVSync.csproj` with th
 
 ## Based on
 
-This project is a port of [GmailCardDAVSync](https://github.com/) — a Gmail ↔ W10M contacts sync app — adapted for Yandex CardDAV.
+This project is a port of [GmailCardDAVSync](https://github.com/Symnok/GmailCardDAVSync) — a Gmail ↔ W10M contacts sync app — adapted for Yandex CardDAV.
 
 Key differences from the Gmail version:
 
